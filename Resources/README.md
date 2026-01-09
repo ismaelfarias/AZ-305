@@ -25,7 +25,7 @@ This folder contains curated links to external resources for AZ-305 exam prepara
 - [AZ-305: Design identity, governance, and monitor solutions](https://learn.microsoft.com/en-us/training/paths/design-identity-governance-monitor-solutions/)
 - [AZ-305: Design business continuity solutions](https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/)
 - [AZ-305: Design data storage solutions](https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/)
-- [AZ-305: Design infrastructure solutions](https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions/)
+- [AZ-305: Design infrastructure solutions](https://learn.microsoft.com/en-us/training/paths/design-infrastructure-solutions/)
 
 ### Third-Party Courses
 - [Pluralsight - AZ-305 Path](https://www.pluralsight.com/)
