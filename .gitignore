@@ -1,0 +1,105 @@
+# Ignore common temporary and build files
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+tmp/
+temp/
+
+# Azure specific
+.azure/
+*.publishsettings
+*.azurePubxml
+
+# Build artifacts
+dist/
+build/
+out/
+target/
+
+# Dependencies
+node_modules/
+vendor/
+packages/
+
+# Environment files (may contain secrets)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Certificates and keys
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# ARM Templates outputs
+*.parameters.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Diagrams exports (keep source files, ignore exports if large)
+# Uncomment if you want to ignore exported diagram images
+# *.png
+# *.jpg
+# *.pdf
+
+# Backup files
+*backup*
+*.orig
